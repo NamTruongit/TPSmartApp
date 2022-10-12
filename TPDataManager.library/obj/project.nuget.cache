@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "0lp0QQv02UPwjCWiUnLZ4DeAP5accnvgjRdjDhrweAp7nm2vNpcFAW3ijj5EA1SbELD+pyg1Cu3e9XG6Isvvlg==",
+  "success": true,
+  "projectFilePath": "D:\\TPSmartApp\\TPSmartApp\\TPDataManager.library\\TPDataManager.library.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Acer\\.nuget\\packages\\microsoft.extensions.configuration.abstractions\\6.0.0\\microsoft.extensions.configuration.abstractions.6.0.0.nupkg.sha512",
+    "C:\\Users\\Acer\\.nuget\\packages\\microsoft.extensions.primitives\\6.0.0\\microsoft.extensions.primitives.6.0.0.nupkg.sha512",
+    "C:\\Users\\Acer\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\6.0.0\\system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
