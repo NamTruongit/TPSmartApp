@@ -1,0 +1,12 @@
+D:\TPSmartApp\TPSmartApp\TPDataManager.library\obj\Debug\net5.0\TPDataManager.library.csproj.AssemblyReference.cache
+D:\TPSmartApp\TPSmartApp\TPDataManager.library\obj\Debug\net5.0\TPDataManager.library.GeneratedMSBuildEditorConfig.editorconfig
+D:\TPSmartApp\TPSmartApp\TPDataManager.library\obj\Debug\net5.0\TPDataManager.library.AssemblyInfoInputs.cache
+D:\TPSmartApp\TPSmartApp\TPDataManager.library\obj\Debug\net5.0\TPDataManager.library.AssemblyInfo.cs
+D:\TPSmartApp\TPSmartApp\TPDataManager.library\obj\Debug\net5.0\TPDataManager.library.csproj.CoreCompileInputs.cache
+D:\TPSmartApp\TPSmartApp\TPDataManager.library\bin\Debug\net5.0\TPDataManager.library.deps.json
+D:\TPSmartApp\TPSmartApp\TPDataManager.library\bin\Debug\net5.0\TPDataManager.library.dll
+D:\TPSmartApp\TPSmartApp\TPDataManager.library\bin\Debug\net5.0\TPDataManager.library.pdb
+D:\TPSmartApp\TPSmartApp\TPDataManager.library\obj\Debug\net5.0\TPDataManager.library.dll
+D:\TPSmartApp\TPSmartApp\TPDataManager.library\obj\Debug\net5.0\refint\TPDataManager.library.dll
+D:\TPSmartApp\TPSmartApp\TPDataManager.library\obj\Debug\net5.0\TPDataManager.library.pdb
+D:\TPSmartApp\TPSmartApp\TPDataManager.library\obj\Debug\net5.0\ref\TPDataManager.library.dll

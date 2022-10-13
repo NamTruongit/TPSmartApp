@@ -9,7 +9,11 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "API", "API", "{556C5A85-C6C
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "WPF", "WPF", "{58567554-C410-4E81-BA0E-BA1B5DAFEBBD}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TPDesktopUI", "TPDesktopUI\TPDesktopUI.csproj", "{E830B245-15C0-4452-A16E-131A40EF8C67}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TPDesktopUI", "TPDesktopUI\TPDesktopUI.csproj", "{E830B245-15C0-4452-A16E-131A40EF8C67}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Context", "Context", "{D7DF63DB-FB19-45D2-ACED-23C7D0480BAC}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TPDataManager.library", "TPDataManager.library\TPDataManager.library.csproj", "{EF386EF4-F9B2-4803-A27C-F38DD0DCF216}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -25,6 +29,10 @@ Global
 		{E830B245-15C0-4452-A16E-131A40EF8C67}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{E830B245-15C0-4452-A16E-131A40EF8C67}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{E830B245-15C0-4452-A16E-131A40EF8C67}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EF386EF4-F9B2-4803-A27C-F38DD0DCF216}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EF386EF4-F9B2-4803-A27C-F38DD0DCF216}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EF386EF4-F9B2-4803-A27C-F38DD0DCF216}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EF386EF4-F9B2-4803-A27C-F38DD0DCF216}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -32,6 +40,7 @@ Global
 	GlobalSection(NestedProjects) = preSolution
 		{BEBB0DE2-8C2C-4691-9D2F-2BF6F19516DD} = {556C5A85-C6C5-4381-82EC-2762CC149A48}
 		{E830B245-15C0-4452-A16E-131A40EF8C67} = {58567554-C410-4E81-BA0E-BA1B5DAFEBBD}
+		{EF386EF4-F9B2-4803-A27C-F38DD0DCF216} = {D7DF63DB-FB19-45D2-ACED-23C7D0480BAC}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {9B384236-1421-44CE-B087-3BDE87951804}

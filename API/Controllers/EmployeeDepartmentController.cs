@@ -2,7 +2,7 @@
 using Microsoft.AspNetCore.Mvc;
 using System.Threading.Tasks;
 using TPApi.Entites;
-using TPApi.Repositoties;
+using TPDataManager.library.IRepositories;
 
 namespace TPApi.Controllers
 {

@@ -86,7 +86,6 @@ D:\TPSmartApp\TPSmartApp\API\bin\Debug\net5.0\refs\Microsoft.AspNetCore.WebUtili
 D:\TPSmartApp\TPSmartApp\API\bin\Debug\net5.0\refs\Microsoft.CSharp.dll
 D:\TPSmartApp\TPSmartApp\API\bin\Debug\net5.0\refs\Microsoft.Extensions.Caching.Abstractions.dll
 D:\TPSmartApp\TPSmartApp\API\bin\Debug\net5.0\refs\Microsoft.Extensions.Caching.Memory.dll
-D:\TPSmartApp\TPSmartApp\API\bin\Debug\net5.0\refs\Microsoft.Extensions.Configuration.Abstractions.dll
 D:\TPSmartApp\TPSmartApp\API\bin\Debug\net5.0\refs\Microsoft.Extensions.Configuration.Binder.dll
 D:\TPSmartApp\TPSmartApp\API\bin\Debug\net5.0\refs\Microsoft.Extensions.Configuration.CommandLine.dll
 D:\TPSmartApp\TPSmartApp\API\bin\Debug\net5.0\refs\Microsoft.Extensions.Configuration.dll
@@ -125,7 +124,6 @@ D:\TPSmartApp\TPSmartApp\API\bin\Debug\net5.0\refs\Microsoft.Extensions.ObjectPo
 D:\TPSmartApp\TPSmartApp\API\bin\Debug\net5.0\refs\Microsoft.Extensions.Options.ConfigurationExtensions.dll
 D:\TPSmartApp\TPSmartApp\API\bin\Debug\net5.0\refs\Microsoft.Extensions.Options.DataAnnotations.dll
 D:\TPSmartApp\TPSmartApp\API\bin\Debug\net5.0\refs\Microsoft.Extensions.Options.dll
-D:\TPSmartApp\TPSmartApp\API\bin\Debug\net5.0\refs\Microsoft.Extensions.Primitives.dll
 D:\TPSmartApp\TPSmartApp\API\bin\Debug\net5.0\refs\Microsoft.Extensions.WebEncoders.dll
 D:\TPSmartApp\TPSmartApp\API\bin\Debug\net5.0\refs\Microsoft.JSInterop.dll
 D:\TPSmartApp\TPSmartApp\API\bin\Debug\net5.0\refs\Microsoft.Net.Http.Headers.dll
@@ -225,7 +223,6 @@ D:\TPSmartApp\TPSmartApp\API\bin\Debug\net5.0\refs\System.Reflection.TypeExtensi
 D:\TPSmartApp\TPSmartApp\API\bin\Debug\net5.0\refs\System.Resources.Reader.dll
 D:\TPSmartApp\TPSmartApp\API\bin\Debug\net5.0\refs\System.Resources.ResourceManager.dll
 D:\TPSmartApp\TPSmartApp\API\bin\Debug\net5.0\refs\System.Resources.Writer.dll
-D:\TPSmartApp\TPSmartApp\API\bin\Debug\net5.0\refs\System.Runtime.CompilerServices.Unsafe.dll
 D:\TPSmartApp\TPSmartApp\API\bin\Debug\net5.0\refs\System.Runtime.CompilerServices.VisualC.dll
 D:\TPSmartApp\TPSmartApp\API\bin\Debug\net5.0\refs\System.Runtime.dll
 D:\TPSmartApp\TPSmartApp\API\bin\Debug\net5.0\refs\System.Runtime.Extensions.dll
@@ -365,3 +362,8 @@ D:\TPSmartApp\TPSmartApp\API\obj\Debug\net5.0\refint\TPApi.dll
 D:\TPSmartApp\TPSmartApp\API\obj\Debug\net5.0\TPApi.pdb
 D:\TPSmartApp\TPSmartApp\API\obj\Debug\net5.0\TPApi.genruntimeconfig.cache
 D:\TPSmartApp\TPSmartApp\API\obj\Debug\net5.0\ref\TPApi.dll
+D:\TPSmartApp\TPSmartApp\API\bin\Debug\net5.0\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\TPSmartApp\TPSmartApp\API\bin\Debug\net5.0\Microsoft.Extensions.Primitives.dll
+D:\TPSmartApp\TPSmartApp\API\bin\Debug\net5.0\System.Runtime.CompilerServices.Unsafe.dll
+D:\TPSmartApp\TPSmartApp\API\bin\Debug\net5.0\TPDataManager.library.dll
+D:\TPSmartApp\TPSmartApp\API\bin\Debug\net5.0\TPDataManager.library.pdb

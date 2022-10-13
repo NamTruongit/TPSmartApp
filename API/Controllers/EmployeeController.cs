@@ -7,7 +7,7 @@ using System.Net;
 using System.Net.Http.Headers;
 using System.Threading.Tasks;
 using TPApi.Entites;
-using TPApi.Repositoties;
+using TPDataManager.library.IRepositories;
 
 namespace TPApi.Controllers
 {

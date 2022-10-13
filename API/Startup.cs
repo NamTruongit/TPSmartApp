@@ -9,6 +9,7 @@ using System.Linq;
 using System.Threading.Tasks;
 using TPApi.Context;
 using TPApi.Repositoties;
+using TPDataManager.library.IRepositories;
 
 namespace API
 {
@@ -58,9 +59,7 @@ namespace API
 
             app.UseEndpoints(endpoints =>
             {
-                endpoints.MapControllerRoute(
-                    name: "default",
-                    pattern: "{controller=Home}/{action=Index}/{id?}");
+
             });
 
             app.UseSwagger();

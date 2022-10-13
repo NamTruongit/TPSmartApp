@@ -16,4 +16,8 @@
     <Folder Include="Properties\" />
   </ItemGroup>
 
+  <ItemGroup>
+    <ProjectReference Include="..\TPDataManager.library\TPDataManager.library.csproj" />
+  </ItemGroup>
+
 </Project>
