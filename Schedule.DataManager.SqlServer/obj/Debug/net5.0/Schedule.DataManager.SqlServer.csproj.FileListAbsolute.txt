@@ -1,0 +1,12 @@
+D:\TPSmartApp\TPSmartApp\Schedule.DataManager.SqlServer\obj\Debug\net5.0\Schedule.DataManager.SqlServer.csproj.AssemblyReference.cache
+D:\TPSmartApp\TPSmartApp\Schedule.DataManager.SqlServer\obj\Debug\net5.0\Schedule.DataManager.SqlServer.GeneratedMSBuildEditorConfig.editorconfig
+D:\TPSmartApp\TPSmartApp\Schedule.DataManager.SqlServer\obj\Debug\net5.0\Schedule.DataManager.SqlServer.AssemblyInfoInputs.cache
+D:\TPSmartApp\TPSmartApp\Schedule.DataManager.SqlServer\obj\Debug\net5.0\Schedule.DataManager.SqlServer.AssemblyInfo.cs
+D:\TPSmartApp\TPSmartApp\Schedule.DataManager.SqlServer\obj\Debug\net5.0\Schedule.DataManager.SqlServer.csproj.CoreCompileInputs.cache
+D:\TPSmartApp\TPSmartApp\Schedule.DataManager.SqlServer\bin\Debug\net5.0\Schedule.DataManager.SqlServer.deps.json
+D:\TPSmartApp\TPSmartApp\Schedule.DataManager.SqlServer\bin\Debug\net5.0\Schedule.DataManager.SqlServer.dll
+D:\TPSmartApp\TPSmartApp\Schedule.DataManager.SqlServer\bin\Debug\net5.0\Schedule.DataManager.SqlServer.pdb
+D:\TPSmartApp\TPSmartApp\Schedule.DataManager.SqlServer\obj\Debug\net5.0\Schedule.DataManager.SqlServer.dll
+D:\TPSmartApp\TPSmartApp\Schedule.DataManager.SqlServer\obj\Debug\net5.0\refint\Schedule.DataManager.SqlServer.dll
+D:\TPSmartApp\TPSmartApp\Schedule.DataManager.SqlServer\obj\Debug\net5.0\Schedule.DataManager.SqlServer.pdb
+D:\TPSmartApp\TPSmartApp\Schedule.DataManager.SqlServer\obj\Debug\net5.0\ref\Schedule.DataManager.SqlServer.dll

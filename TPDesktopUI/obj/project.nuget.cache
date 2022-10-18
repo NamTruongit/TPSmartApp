@@ -1,8 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "CcFy5m64ZFrmTMsubYwLvPDt0Cp4WQt1NmXgsURnh7RIeBN/huSNXS6wSOeTz71JRvfppZ91M8Rz+kOeApFtag==",
+  "dgSpecHash": "n5CobvZPAJV0tdUxisBlqLTzB2hvdNAlKY2dDqPdU4tO77ntcAaCP6LEKQv0IGK4CTGbrOxeRH5/GwfITmHxBg==",
   "success": true,
   "projectFilePath": "D:\\TPSmartApp\\TPSmartApp\\TPDesktopUI\\TPDesktopUI.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\Acer\\.nuget\\packages\\microsoft.extensions.configuration.abstractions\\6.0.0\\microsoft.extensions.configuration.abstractions.6.0.0.nupkg.sha512",
+    "C:\\Users\\Acer\\.nuget\\packages\\microsoft.extensions.primitives\\6.0.0\\microsoft.extensions.primitives.6.0.0.nupkg.sha512",
+    "C:\\Users\\Acer\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\6.0.0\\system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512"
+  ],
   "logs": []
 }

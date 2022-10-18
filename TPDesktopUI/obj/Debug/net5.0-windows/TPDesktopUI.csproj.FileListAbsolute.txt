@@ -20,3 +20,7 @@ D:\TPSmartApp\TPSmartApp\TPDesktopUI\obj\Debug\net5.0-windows\refint\TPDesktopUI
 D:\TPSmartApp\TPSmartApp\TPDesktopUI\obj\Debug\net5.0-windows\TPDesktopUI.pdb
 D:\TPSmartApp\TPSmartApp\TPDesktopUI\obj\Debug\net5.0-windows\TPDesktopUI.genruntimeconfig.cache
 D:\TPSmartApp\TPSmartApp\TPDesktopUI\obj\Debug\net5.0-windows\ref\TPDesktopUI.dll
+D:\TPSmartApp\TPSmartApp\TPDesktopUI\bin\Debug\net5.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\TPSmartApp\TPSmartApp\TPDesktopUI\bin\Debug\net5.0-windows\Microsoft.Extensions.Primitives.dll
+D:\TPSmartApp\TPSmartApp\TPDesktopUI\bin\Debug\net5.0-windows\System.Runtime.CompilerServices.Unsafe.dll
+D:\TPSmartApp\TPSmartApp\TPDesktopUI\obj\Debug\net5.0-windows\TPDesktopUI.csproj.CopyComplete

@@ -1,0 +1,12 @@
+D:\TPSmartApp\TPSmartApp\EmployeeDataManager.SqlServer\bin\Debug\net5.0\EmployeeDataManager.SqlServer.deps.json
+D:\TPSmartApp\TPSmartApp\EmployeeDataManager.SqlServer\bin\Debug\net5.0\EmployeeDataManager.SqlServer.dll
+D:\TPSmartApp\TPSmartApp\EmployeeDataManager.SqlServer\bin\Debug\net5.0\EmployeeDataManager.SqlServer.pdb
+D:\TPSmartApp\TPSmartApp\EmployeeDataManager.SqlServer\obj\Debug\net5.0\EmployeeDataManager.SqlServer.csproj.AssemblyReference.cache
+D:\TPSmartApp\TPSmartApp\EmployeeDataManager.SqlServer\obj\Debug\net5.0\EmployeeDataManager.SqlServer.GeneratedMSBuildEditorConfig.editorconfig
+D:\TPSmartApp\TPSmartApp\EmployeeDataManager.SqlServer\obj\Debug\net5.0\EmployeeDataManager.SqlServer.AssemblyInfoInputs.cache
+D:\TPSmartApp\TPSmartApp\EmployeeDataManager.SqlServer\obj\Debug\net5.0\EmployeeDataManager.SqlServer.AssemblyInfo.cs
+D:\TPSmartApp\TPSmartApp\EmployeeDataManager.SqlServer\obj\Debug\net5.0\EmployeeDataManager.SqlServer.csproj.CoreCompileInputs.cache
+D:\TPSmartApp\TPSmartApp\EmployeeDataManager.SqlServer\obj\Debug\net5.0\EmployeeDataManager.SqlServer.dll
+D:\TPSmartApp\TPSmartApp\EmployeeDataManager.SqlServer\obj\Debug\net5.0\refint\EmployeeDataManager.SqlServer.dll
+D:\TPSmartApp\TPSmartApp\EmployeeDataManager.SqlServer\obj\Debug\net5.0\EmployeeDataManager.SqlServer.pdb
+D:\TPSmartApp\TPSmartApp\EmployeeDataManager.SqlServer\obj\Debug\net5.0\ref\EmployeeDataManager.SqlServer.dll
